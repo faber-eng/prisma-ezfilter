@@ -1,4 +1,4 @@
-# @faber/prisma-ezfilter
+# @faber-eng/prisma-ezfilter
 
 A TypeScript package for building dynamic Prisma queries with type-safe filtering, searching, ordering, and range filtering with support for **multi-level nested relations**. This package provides a flexible and extensible way to translate standard query parameters into Prisma query options with optional validation and field mapping.
 
